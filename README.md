@@ -24,7 +24,7 @@ I've also worked as a consultant for firms utilizing Bayesian methods in marketi
 
 My past research often dealt with observational or structural uncertainty, requiring probabilistic analysis. Many of the projects involved data with an inherent spatial aspect, thus suitable for spatial statistical methods. These projects include:
 
-- Statistical wetland modeling
+- Statistical inference for noisy / sparsely observed physical systems
 - Integrating expert knowledge in posterior simulation for geospatial categorical data
 - Dimension reduction for high-dimensional data
 - Bayesian inference for engineering models
