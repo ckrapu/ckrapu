@@ -4,6 +4,10 @@
 
 Here's a quick overview of some projects I've worked on or currently maintaining:
 
+### [VectorGeo](https://louisquissetlabs.com/vectorgeo)
+
+Ever want vector embeddings for any place on Earth? Here they are! This data product was produced entirely on AWS with land cover data sourced from the Copernicus Earth Observation program. I'm keeping the repositories for this project private, but am happy to show them personally to anyone interested in this project.
+
 ### 📖 [WikiStorytime](https://wikistorytime.com)
 
 This project involves the automatic generation of children's stories using AWS Amplify, Lambda, and OpenAI's GPT API. The focus is to ensure these stories are safe and suitable for kids.
