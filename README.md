@@ -18,7 +18,7 @@ My personal site that houses various technical posts. This site functions as a p
 
 ## About Me
 
-I'm currently a machine learning engineer at Realtor.com. My previous research focused on creating scalable models for inference and prediction in geospatial settings. I have a particular interest in latent variable models and Bayesian methods.
+I'm currently an application architect at NVIDIA, focusing on AI. My previous research focused on creating scalable models for inference and prediction in geospatial settings. I have a particular interest in latent variable models and Bayesian methods.
 
 My academic background includes degrees in physics from Macalester College (BA, 2013), and from Duke in statistics (MS, 2020), and civil/environmental engineering (PhD, 2020). 
 
